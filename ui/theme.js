@@ -196,6 +196,20 @@ const theme = StyleSheet.create({
         borderRadius: 4,
         margin: 2.5,
         padding: 2.5
+    },
+
+    textFile:{                               //Added the new textFile in theme for the main login page 
+        backgroundColor: '#fff',
+        borderColor: '#000',
+        fontFamily: 'Trebuchet',
+        fontSize: '20px',
+        fontStyle: 'bold',
+        fontWeight: 'bold',
+        borderWidth: 2,
+        borderRadius: 4,
+        margin: 2.5,
+        padding: 2.5
+
     }
 });
 
