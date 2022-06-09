@@ -2,3 +2,4 @@
 yarn add @react-navigation/native
 expo install react-native-screens react-native-safe-area-context
 yarn add @react-navigation/native-stack
+i have added new second folder for coding 
